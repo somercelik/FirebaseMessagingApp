@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "712361438591",
+    "firebase_url": "https://mesajlasma-ee31d.firebaseio.com",
+    "project_id": "mesajlasma-ee31d",
+    "storage_bucket": "mesajlasma-ee31d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712361438591:android:134a9f24aa03169c923e4a",
+        "android_client_info": {
+          "package_name": "com.somercelik.mesajlamauygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712361438591-rfulpunbv1tr9gj235p0ec5fqhoht7l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjqy5exrhyb5dAF51yaq60jHuwQeBi_wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712361438591-rfulpunbv1tr9gj235p0ec5fqhoht7l2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712361438591:android:c6413644c3dc2d4a923e4a",
+        "android_client_info": {
+          "package_name": "com.somercelik.messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712361438591-rfulpunbv1tr9gj235p0ec5fqhoht7l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjqy5exrhyb5dAF51yaq60jHuwQeBi_wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712361438591-rfulpunbv1tr9gj235p0ec5fqhoht7l2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
